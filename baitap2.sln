@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap2", "baitap2\baitap2.csproj", "{B69368DF-0CEC-44E7-BC64-87E009D1D31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69368DF-0CEC-44E7-BC64-87E009D1D31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69368DF-0CEC-44E7-BC64-87E009D1D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69368DF-0CEC-44E7-BC64-87E009D1D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69368DF-0CEC-44E7-BC64-87E009D1D31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
